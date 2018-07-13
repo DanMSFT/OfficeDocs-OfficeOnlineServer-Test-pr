@@ -19,7 +19,7 @@ Returns details about the OfficeWebAppsFarm object that the current server is a 
 
 ## Syntax
 
-```Powershell
+```PowerShell
     Get-OfficeWebAppsFarm
 ```
 
@@ -37,7 +37,7 @@ The **Get-OfficeWebAppsFarm** cmdlet returns details about the OfficeWebAppsFarm
 
 \------------------EXAMPLE 1---------------------
 
-```Powershell
+```PowerShell
     Get-OfficeWebAppsFarm
 ```
 
@@ -45,7 +45,7 @@ This example returns details about the OfficeWebAppsFarm object.
 
 \------------------EXAMPLE 2---------------------
 
-```Powershell
+```PowerShell
     (Get-OfficeWebAppsFarm).Machines
 ```
 
